@@ -1,4 +1,4 @@
-# Newton-Ralphson Iteration Technique Implementation Trials
+# Newton-Raphson Iteration Technique Implementation Trials
 
 ## Just practicing implementation in C++ and Python. 
 
